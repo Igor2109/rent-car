@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/github.io/rent-car/static/css/main.964fdded.css",
+    "main.js": "/github.io/rent-car/static/js/main.1131c227.js",
+    "static/js/592.bd62d01e.chunk.js": "/github.io/rent-car/static/js/592.bd62d01e.chunk.js",
+    "index.html": "/github.io/rent-car/index.html",
+    "main.964fdded.css.map": "/github.io/rent-car/static/css/main.964fdded.css.map",
+    "main.1131c227.js.map": "/github.io/rent-car/static/js/main.1131c227.js.map",
+    "592.bd62d01e.chunk.js.map": "/github.io/rent-car/static/js/592.bd62d01e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.964fdded.css",
+    "static/js/main.1131c227.js"
+  ]
+}
